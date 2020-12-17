@@ -1,0 +1,1 @@
+Chess front end using bevy. Extend to an engine afterwards
